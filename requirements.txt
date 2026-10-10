@@ -1,0 +1,9 @@
+PySide6>=6.6
+pymupdf>=1.24
+lameenc>=1.7
+mutagen>=1.47
+numpy>=1.24
+# Modeller (kullanacağınızı kurun):
+ema-lightning>=1.0.4      # EMA Lightning
+antalia-mini>=1.0.0       # Antalia-2 Mini
+# torch: GPU için https://pytorch.org adresinden CUDA sürümünü kurun
